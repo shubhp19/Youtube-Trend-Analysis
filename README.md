@@ -57,7 +57,7 @@ After retrieving data from AWS, we conduct our analysis using QuickSight. Here a
 - Each segment's size represents the proportion of total views that category has received.
 - The chart provides a visual comparison of viewership across different content categories, highlighting which types of content are the most viewed.
 <p align="center">
-  <img width="100%" src="Sums_view.png" />
+  <img width="100%" src="Sums_views.png" />
 </p>
 
 
