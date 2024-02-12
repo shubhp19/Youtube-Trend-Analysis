@@ -38,6 +38,10 @@ After retrieving data from AWS, we conduct our analysis using QuickSight. Here a
 - The longest bar represents the "People & Blogs" category, suggesting it has the highest count of likes, significantly more than the other categories.
 - Each bar's length is proportional to the count of likes, with a scale ranging from 0 to a value above 15K likes.
 - The chart is a clear visual representation of the popularity of content categories based on the number of likes they have received.
+  ### Glimpse of my Dashboard:
+<p align="center">
+  <img width="100%" src="Like_image.png" />
+</p>
 
 
 
@@ -53,7 +57,10 @@ After retrieving data from AWS, we conduct our analysis using QuickSight. Here a
 - The "Entertainment" category dominates the chart, indicating it has the highest number of views compared to other categories, followed by "Music" and "People & Blogs".
 - Each segment's size represents the proportion of total views that category has received.
 - The chart provides a visual comparison of viewership across different content categories, highlighting which types of content are the most viewed.
-
+### Glimpse of my Dashboard:
+<p align="center">
+  <img width="100%" src="Pizza.png" />
+</p>
 
 
 
@@ -70,4 +77,7 @@ After retrieving data from AWS, we conduct our analysis using QuickSight. Here a
 - Colors are used to distinguish between regions, with each region assigned a specific color: blue for Great Britain, dark blue for the United States, and orange for Canada.
 - Below the chart, we see the label "Size: views (Sum)" and "Group By: region", suggesting that the data is aggregated to show the sum of views and is grouped by the region attribute.
 - This chart effectively communicates the distribution of views across the three regions, highlighting which region has the highest viewership.
-
+### Glimpse of my Dashboard:
+<p align="center">
+  <img width="100%" src="Sums_region.png" />
+</p>
